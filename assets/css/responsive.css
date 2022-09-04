@@ -1,0 +1,1858 @@
+@media only screen and (max-width: 767px) {
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .navbar-light .navbar-toggler {
+    background-color: #ffffff;
+  }
+  .navbar-light .navbar-toggler:focus {
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .mein-navbar {
+    padding: 6px 15px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#39137c), to(#0c164f));
+    background-image: linear-gradient(#39137c, #0c164f);
+  }
+  .mein-navbar .navbar-nav .nav-item {
+    text-align: center;
+  }
+  .mein-navbar .navbar-nav .nav-item .nav-link {
+    padding: 5px 0px;
+    margin-left: 0;
+    display: inline-block;
+  }
+  .mein-navbar .navbar-nav .nav-item.buy-token {
+    margin-bottom: 10px !important;
+    display: none;
+  }
+  .mein-navbar .navbar-nav .buy-tokens .nav-link {
+    margin-bottom: 15px;
+  }
+  .mein-navbar.menu-shrink {
+    padding: 0 15px;
+  }
+  .banner-area {
+    border-radius: 0 0 35px 35px;
+    position: relative;
+    height: 550px;
+  }
+  .banner-area .banner-text {
+    margin-top: 50px;
+  }
+  .banner-area .banner-text span {
+    font-size: 37px;
+  }
+  .banner-area .banner-text h2 {
+    font-size: 31px;
+  }
+  .banner-area .banner-text p {
+    color: #fff;
+    margin-bottom: 30px;
+  }
+  .banner-area .letest-video {
+    margin-left: 30px;
+  }
+  .banner-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.8;
+    border-radius: 0 0 35px 35px;
+  }
+  .banner-area .banner-shape {
+    display: none;
+  }
+  .banner-area .banner-shape-2 {
+    display: none;
+  }
+  .banner-area .banner-shape-3 {
+    display: none;
+  }
+  .banner-area .banner-img {
+    width: 370px;
+    z-index: -1;
+  }
+  .banner-area .dollar {
+    display: none;
+  }
+  .banner-area .video-content-wrapper p {
+    display: none;
+  }
+  .single-blog img {
+    width: 100%;
+  }
+  .default-btn {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  .default-btn-border {
+    padding: 5px 10px;
+    font-size: 14px !important;
+  }
+  .ico-area {
+    padding-top: 50px;
+    text-align: center;
+  }
+  .ico-area .ico-wrapper {
+    padding: 20px;
+  }
+  .ico-area .ico-wrapper .ico-text h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .ico-area .ico-wrapper .ico-text ul li {
+    padding: 0;
+  }
+  .ico-area .ico-wrapper .ico-text ul li span {
+    font-size: 30px;
+    line-height: 1.8;
+    width: 59px;
+    height: 59px;
+  }
+  .ico-area .ico-wrapper:before {
+    background-size: cover;
+  }
+  .ico-area .ico-wrapper .tril-wrapper h4 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .ico-area .ico-wrapper .tril-wrapper p {
+    font-size: 15px;
+    margin: 15px 0 15px;
+  }
+  .progress-wrapper p {
+    font-size: 15px;
+  }
+  .progress-wrapper .progress {
+    margin: 20px 0 15px;
+  }
+  .ico-area .ico-wrapper-timer {
+    max-width: 500px;
+    margin-left: auto;
+    margin: auto;
+  }
+  .ico-slider-wrapper {
+    left: 0;
+    margin-top: 30px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .default-btn-two {
+    padding: 5px 15px;
+    font-size: 16px;
+  }
+  .niktacacoin-img {
+    margin-top: 30px;
+  }
+  .service-img {
+    margin-bottom: 30px;
+  }
+  .benefit-area {
+    -webkit-clip-path: none;
+            clip-path: none;
+    padding: 50px 0 20px;
+    border-radius: 0 0 30px 30px;
+  }
+  .benefit-area .left-arrow {
+    display: none;
+  }
+  .benefit-area .left-arrow-2 {
+    display: none;
+  }
+  .benefit-button .default-btn-border {
+    font-size: 15px;
+    padding: 5px 10px;
+  }
+  .benefit-button .show-me {
+    margin-left: 20px !important;
+    margin-top: 0;
+    margin-bottom: 40px;
+  }
+  .benefit-wrapper .single-benefit {
+    padding: 20px;
+  }
+  .benefit-wrapper .single-benefit h3 {
+    font-size: 19px;
+  }
+  .benefit-wrapper .single-benefit i::before {
+    font-size: 35px;
+  }
+  .blockchain-img {
+    margin-bottom: 30px;
+  }
+  .blockchain-area ul li {
+    font-size: 15px;
+  }
+  .blockchain-area ul i::before {
+    font-size: 18px;
+  }
+  .google-play {
+    margin-left: 0 !important;
+    margin-top: 30px;
+  }
+  .timeline ol {
+    padding: 264px 0 220px;
+  }
+  .roadmap {
+    padding-top: 20px;
+  }
+  .roadmap .section-title {
+    margin: 0 auto 30px;
+  }
+  .roadmap .timeline ol {
+    padding: 220px 0 150px !important;
+  }
+  .roadmap .timeline ol li:not(:last-child)::after {
+    left: 76px;
+  }
+  .roadmap .timeline ol li:nth-child(even) h3::after {
+    top: -93px;
+    height: 80px;
+  }
+  .roadmap .timeline ol li:nth-child(odd) h3::after {
+    top: 138px;
+    height: 80px;
+  }
+  .roadmap .timeline ol li:nth-child(odd) h3 {
+    top: -90px;
+  }
+  .roadmap .timeline ol li:nth-child(odd) h3::before {
+    top: 115px;
+  }
+  .roadmap .timeline ol li {
+    width: 85px;
+    -webkit-column-span: 12px;
+            column-span: 12px;
+  }
+  .roadmap .timeline ol li h3 {
+    width: 162px;
+    font-size: 18px;
+    left: -84px;
+    top: 90px;
+  }
+  .roadmap .timeline .arrows .arrow__prev {
+    top: 404px;
+    left: 4px;
+  }
+  .roadmap .timeline .arrows .arrow__next {
+    top: 404px;
+    right: 4px;
+  }
+  .faq-img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .distribution-area {
+    padding-top: 35px;
+    padding-bottom: 20px;
+  }
+  .distribution-area .section-title {
+    margin: 0 auto 30px;
+  }
+  .distribution-area .single-distribution {
+    max-width: 100%;
+    margin-left: 55px;
+  }
+  .distribution-area .single-distribution span::before {
+    top: 10px;
+  }
+  .distribution-area .single-distribution p {
+    font-size: 15px;
+  }
+  .distribution-img {
+    margin-bottom: 30px;
+  }
+  .team-area {
+    -webkit-clip-path: none;
+            clip-path: none;
+    padding: 50px 0 20px;
+    border-radius: 0 0 35px 35px;
+  }
+  .team-area ul li a {
+    font-size: 14px;
+    padding: 10px 16px;
+  }
+  .single-team h4 {
+    padding-bottom: 28px;
+  }
+  .shape-5 {
+    display: none;
+  }
+  .currencies-area .single-bit {
+    margin-bottom: 30px;
+  }
+  .currencies-area .section-title {
+    margin: 0 auto 30px;
+  }
+  .structure-area {
+    padding-top: 30px;
+  }
+  .valus-area {
+    padding-top: 20px;
+  }
+  .valus-area .values-and-sell {
+    margin-bottom: 30px;
+    padding: 20px;
+  }
+  .valus-area .values-and-sell ul li {
+    padding-right: 27px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .faq-accordion .accordion .accordion-item .accordion-title {
+    font-size: 14.5px;
+  }
+  .blog-area {
+    padding-bottom: 120px;
+  }
+  .blog-area .single-blog .blog-text h2 a {
+    font-size: 20px;
+  }
+  .blog-area .single-blog .blog-text p {
+    font-size: 15px;
+  }
+  .blog-area .single-blog .blog-text .read-more {
+    font-size: 15px;
+  }
+  .contact-area .Form-contact {
+    padding: 30px 20px;
+    margin-bottom: 90px;
+  }
+  .contact-area label {
+    font-size: 15px;
+  }
+  .form-control {
+    font-size: 14px;
+    height: 50px;
+    padding: 20px 20px;
+  }
+  .single-partner img {
+    margin: auto;
+  }
+  .single-partner .color-logo img {
+    margin: auto;
+  }
+  .single-partner .color-logo {
+    right: 0;
+    margin: auto;
+  }
+  .partner-area {
+    padding-bottom: 50px;
+  }
+  .footer-top-area .single-widget h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .footer-top-area .single-widget ul li {
+    font-size: 15px;
+  }
+  .footer-bottom .single-widgets {
+    text-align: center;
+  }
+  .footer-bottom .single-widgets ul.social-links {
+    text-align: center !important;
+  }
+  .footer-top-area {
+    padding-bottom: 20px;
+  }
+  .single-widget.single-widget-align {
+    margin-left: 0;
+  }
+  .single-widget .brand {
+    line-height: 1;
+  }
+  .single-widget .footer-text {
+    margin-top: 10px;
+  }
+  .footer-bottom .single-widget ul {
+    text-align: center;
+  }
+  .timeline .arrows .arrow__prev {
+    top: 296px;
+  }
+  .timeline .arrows .arrow__next {
+    top: 296px;
+  }
+  /*************************/
+  .home-two-body {
+    background-image: none;
+    background-color: #120f16;
+  }
+  .pt-70 {
+    padding-top: 50px;
+  }
+  .section-title-two h3 {
+    font-size: 14px;
+  }
+  .section-title-two h2 {
+    font-size: 22px;
+  }
+  .section-title-two p {
+    font-size: 15px;
+  }
+  .section-title-two span {
+    display: none;
+  }
+  .default-btn-border {
+    padding: 5px 15px;
+    font-size: 16px;
+  }
+  .default-btn-border.its-work {
+    margin-left: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .mein-navbar-two {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#111014), to(#111014));
+    background-image: linear-gradient(#111014, #111014);
+  }
+  .banner-area-two {
+    padding: 110px 0 50px;
+  }
+  .banner-area-two .banner-text p {
+    margin-bottom: 30px;
+    font-size: 15px;
+  }
+  .banner-area-two .banner-text ul {
+    margin-bottom: 30px;
+  }
+  .banner-area-two .banner-text ul li {
+    font-size: 16px;
+  }
+  .banner-area-two .banner-text ul li .number-bg {
+    left: -4px;
+    top: -23px;
+    font-size: 40px;
+  }
+  .banner-area-two .Shape-1 {
+    display: none;
+  }
+  .banner-area-two .Shape-2 {
+    display: none;
+  }
+  .banner-area-two .Shape-3 {
+    display: none;
+  }
+  .banner-area-two .banner-text h2 {
+    font-size: 27px;
+  }
+  .what-is-nikata-area ul li {
+    font-size: 16px;
+  }
+  .what-is-nikata-area ul i {
+    top: -6px;
+  }
+  .buy-now-area .Shape-4 {
+    display: none;
+  }
+  .buy-now-area .Shape-4 {
+    display: none;
+  }
+  .about-area {
+    text-align: center;
+  }
+  .about-area .section-title-two {
+    margin-left: 0;
+    text-align: left;
+  }
+  .about-area .section-title-two span {
+    left: 14px;
+  }
+  .about-area .single-work .work-content.work-contents {
+    left: 0px;
+  }
+  .about-area .single-work img {
+    max-width: 250px;
+    width: 100%;
+  }
+  .about-area .niktacacoin-button {
+    margin-left: 0;
+    text-align: left;
+  }
+  .about-area .single-work .about-icon.about-icon-center {
+    left: 0;
+  }
+  .what-is-nikata-area .section-title-two p {
+    margin-bottom: 20px;
+  }
+  .what-is-nikata-area ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .what-is-nikata-area .video-content-wrapper {
+    margin-bottom: 30px;
+  }
+  .buy-now-area .section-title-two {
+    margin: 0 auto 30px;
+  }
+  .buy-now-area .buy-now-img {
+    margin-bottom: 10px;
+  }
+  .buy-now-area .ico-wrapper {
+    padding: 20px;
+  }
+  .buy-now-area .ico-wrapper .ico-text h3 {
+    font-size: 25px;
+  }
+  .buy-now-area .ico-wrapper .ico-text ul {
+    margin: 20px 0 20px;
+  }
+  .buy-now-area .ico-wrapper .ico-text h4 {
+    font-size: 15px;
+  }
+  .buy-now-area .ico-wrapper ul li {
+    padding-right: 48px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .buy-now-area .ico-wrapper ul li.bitcoin-number {
+    padding-left: 127px;
+  }
+  .buy-now-area .ico-wrapper.ico-wrapper-timer {
+    margin: auto;
+    text-align: center;
+  }
+  .buy-now-area .Shape-4 {
+    display: none;
+  }
+  .benefit-two-area .section-title-two {
+    max-width: 600px;
+    margin: 0 auto 0px;
+    text-align: left;
+  }
+  .benefit-two-area .section-title-two p {
+    margin-bottom: 30px;
+  }
+  .benefit-two-area .section-title-two .default-btn-two {
+    margin-bottom: 30px;
+  }
+  .benefit-two-area .single-benefit p {
+    margin-bottom: 30px;
+  }
+  .benefit-two-area .single-benefit h3 {
+    line-height: 1.5;
+  }
+  .blockchain-area-two {
+    padding-top: 20px;
+  }
+  .blockchain-area-two ul li {
+    font-size: 15px;
+  }
+  .blockchain-area-two ul li i {
+    top: -6px;
+  }
+  .service-area-two .service-img {
+    margin-top: 30px;
+  }
+  .rating-two-area {
+    padding-top: 20px;
+  }
+  .rating-two-area h3 {
+    font-size: 18px;
+  }
+  .roadmap-two .timeline ol {
+    padding: 280px 0 243px;
+  }
+  .roadmap-two .timeline ol li {
+    width: 247px;
+  }
+  .roadmap-two .timeline .arrows .arrow__prev {
+    top: 466px;
+  }
+  .roadmap-two .timeline .arrows .arrow__next {
+    top: 466px;
+  }
+  .roadmap-two .section-title-two {
+    margin: 0 auto 0px;
+  }
+  .roadmap-two .timeline ol li {
+    width: 149px;
+  }
+  .roadmap-two .timeline ol li:not(:last-child)::after {
+    left: 137px;
+    z-index: 1;
+  }
+  .roadmap-two .timeline ol li p {
+    left: 20px;
+    width: 290px;
+    padding: 15px;
+  }
+  .roadmap-two .timeline ol li p span {
+    margin-bottom: 5px;
+  }
+  .roadmap-two .timeline ol li p .span-tags {
+    margin-bottom: 1px !important;
+  }
+  .structure-area-two .section-title-two {
+    margin: 0 auto 30px;
+  }
+  .structure-area-two p {
+    font-size: 14px;
+  }
+  .structure-area-two .values-and-sell {
+    height: 330px;
+    text-align: center;
+  }
+  .structure-area-two .values-and-sell ul li {
+    padding-right: 28px;
+    font-size: 15px;
+  }
+  .structure-area-two .values-and-sell ul li.bitcoin-number {
+    padding-left: 127px;
+  }
+  .structure-area-two .values-and-sell .we-accept ul li {
+    margin-right: 22px;
+  }
+  .structure-area-two .values-and-sell .we-accept ul li i {
+    font-size: 22px;
+  }
+  .structure-area-two .values-and-sell .we-accept h3 {
+    margin: 23px 0 25px;
+  }
+  .team-area-two .join-now {
+    margin-top: -15px;
+    text-align: left !important;
+    margin-bottom: 30px;
+  }
+  .team-area-two .single-team {
+    padding: 20px;
+  }
+  .team-area-two .single-team h3 {
+    font-size: 18px;
+  }
+  .team-area-two .single-team h4 {
+    font-size: 13px;
+  }
+  .team-member-area .section-title-two {
+    max-width: 507px;
+    margin: 0 auto 30px;
+  }
+  .faq-area-two {
+    padding-top: 20px;
+  }
+  .blog-area-two {
+    padding-top: 20px;
+  }
+  .blog-area-two .section-title-two {
+    margin: 0 auto 30px;
+    text-align: left;
+  }
+  .blog-area-two .single-blog .blog-text h2 a {
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .faq-area-two .faq-img {
+    margin-bottom: 20px;
+  }
+  .team-member-area {
+    padding-top: 30px;
+  }
+  .contact-area-two {
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  .contact-area-two .get-in-touch {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .contact-area-two .get-in-touch ul li {
+    margin-bottom: 20px;
+  }
+  .footer-top-area-two {
+    padding-bottom: 20px;
+  }
+  .footer-top-area-two .single-widget h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  .footer-top-area-two .single-widget .brand {
+    margin-bottom: 10px;
+  }
+  .footer-top-area-two .single-widget.align-centers {
+    margin-left: 0;
+  }
+  .footer-top-area-two .single-widget ul li a {
+    font-size: 15px;
+  }
+  #toTop {
+    bottom: 40px;
+  }
+  .distribution-area-two {
+    padding-bottom: 0;
+    padding-top: 20px;
+  }
+  .distribution-area-two .section-title-two {
+    margin-bottom: 30px;
+  }
+  .distribution-area-two .distribution-img::before {
+    top: -42px;
+    left: -30px;
+    display: none;
+  }
+  .distribution-area-two .ml-100 {
+    margin-bottom: 30px;
+    margin-left: 0;
+    margin-top: 30px !important;
+  }
+  .distribution-area-two .mb-100 {
+    margin-bottom: 0px;
+  }
+  .distribution-area-two .token-list {
+    margin-top: 0;
+  }
+  .distribution-area-two .token-list h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .distribution-area-two .token-list ul li {
+    font-size: 15px;
+  }
+  .distribution-area-two .token-list ul li:last-child {
+    margin-bottom: 0;
+  }
+  .blog-details .article-content {
+    padding: 0;
+    border: none;
+    margin-top: 25px;
+  }
+  .blog-details .article-content .entry-meta {
+    margin: 0 0 15px;
+  }
+  .blog-details .article-content .entry-meta li {
+    margin-right: 10px;
+    font-size: 13px;
+  }
+  .blog-details .article-content .category li a {
+    padding: 3px 10px;
+    font-size: 12px;
+  }
+  blockquote {
+    padding: 20px 20px 20px 55px !important;
+  }
+  blockquote::before {
+    left: 9px;
+    top: 35px;
+    font-size: 20px;
+  }
+  .post-controls-buttons {
+    padding: 20px;
+  }
+  .comments-area .comments-title {
+    font-size: 19px;
+  }
+  .comments-area .comment-body {
+    margin-left: 0;
+  }
+  .comments-area .comment-author .avatar {
+    left: 0;
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+  }
+  .comments-area .comment-author .fn {
+    font-size: 13px;
+  }
+  .comments-area .comment-content p {
+    font-size: 13px;
+  }
+  .comments-area .children {
+    margin-left: 25px;
+  }
+  .comments-area .comment-respond {
+    padding: 25px 20px;
+  }
+  .comments-area .comment-respond .comment-reply-title {
+    font-size: 19px;
+  }
+  .comments-area .comment-respond .comment-notes {
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+  .comments-area .comment-respond label {
+    font-size: 13px;
+  }
+  .comments-area .comment-respond .comment-form-author {
+    float: left;
+    width: 100%;
+    padding-right: 0;
+  }
+  .comments-area .comment-respond .comment-form-email {
+    float: left;
+    width: 100%;
+    padding-left: 0;
+  }
+  .comments-area .comment-respond .form-submit input {
+    padding: 10px 24px;
+    font-size: 13px;
+  }
+  .widget-area {
+    margin-top: 40px;
+  }
+  .widget-area .widget .widget-title {
+    font-size: 18px;
+  }
+  .widget-area .widget ul li {
+    font-size: 13px;
+  }
+  .widget-area .tagcloud a {
+    font-size: 13px !important;
+  }
+  .blog-details-area {
+    padding: 50px 0 50px !important;
+  }
+  .faq-area-two .faq-accordion .accordion .accordion-item {
+    margin-bottom: 0;
+  }
+  .faq-area-two .faq-accordion .accordion .accordion-item .accordion-title {
+    font-size: 13.5px;
+    font-weight: normal;
+  }
+  .text-danger {
+    position: unset;
+    margin-top: 30px;
+    margin-bottom: 0;
+  }
+  .mein-navbar .other-option {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 0;
+  }
+  .banner-area .banner-text {
+    text-align: center;
+  }
+  .niktacacoin-button {
+    text-align: center;
+  }
+  .section-title {
+    text-align: center;
+  }
+  .benefit-area .benefit-button {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .benefit-wrapper .single-benefit {
+    text-align: center;
+  }
+  .blockchain-button {
+    text-align: center;
+  }
+  .blockchain-area ul li {
+    padding-left: 0;
+  }
+  .blockchain-area ul i {
+    display: none;
+  }
+  .distribution-area .single-distribution {
+    margin-left: 0;
+  }
+  .structure-area .single-structure .structure-content {
+    left: 95px;
+  }
+  .single-blog .blog-text {
+    text-align: center;
+    padding: 20px;
+  }
+  .distribution-area .single-distribution {
+    max-width: 100%;
+  }
+  .valus-area .section-title {
+    margin-left: 0;
+  }
+  .what-is-nikata-area ul li {
+    padding-left: 0;
+  }
+  .what-is-nikata-area ul i {
+    display: none;
+  }
+  .what-is-nikata-area .video-content-wrapper {
+    text-align: center;
+  }
+  .what-is-nikata-area .video-content-wrapper p {
+    display: none;
+  }
+  .blockchain-area-two ul li {
+    padding-left: 0;
+  }
+  .blockchain-area-two ul li i {
+    display: none;
+  }
+  .team-area-two .section-title-two {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .team-area-two .join-now p {
+    text-align: center;
+  }
+  .widget.widget_search {
+    margin-top: 35px !important;
+  }
+  .page-title-area {
+    padding-top: 125px;
+    padding-bottom: 60px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .pt-100 {
+    padding-top: 70px;
+  }
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar-light .navbar-toggler {
+    background-color: #ffffff;
+  }
+  .mein-navbar {
+    padding: 6px 15px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#39137c), to(#0c164f));
+    background-image: linear-gradient(#39137c, #0c164f);
+  }
+  .mein-navbar .navbar-nav .nav-item .nav-link {
+    padding: 5px 0px;
+    margin-left: 0;
+    display: inline-block;
+  }
+  .mein-navbar .navbar-nav .nav-item.buy-token {
+    margin-bottom: 10px !important;
+    margin-left: -29px;
+  }
+  .mein-navbar .navbar-nav .nav-item.buy-tokens {
+    margin-bottom: 15px;
+  }
+  .banner-area {
+    border-radius: 0 0 35px 35px;
+    position: relative;
+    height: 600px;
+  }
+  .banner-area .banner-text {
+    margin-top: 50px;
+  }
+  .banner-area .banner-text span {
+    font-size: 50px;
+  }
+  .banner-area .banner-text h2 {
+    font-size: 50px;
+  }
+  .banner-area .banner-text p {
+    color: #fff;
+    margin-bottom: 30px;
+  }
+  .banner-area .letest-video {
+    margin-left: 30px;
+  }
+  .banner-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.8;
+    border-radius: 0 0 35px 35px;
+  }
+  .banner-area .banner-shape {
+    display: none;
+  }
+  .banner-area .banner-shape-2 {
+    display: none;
+  }
+  .banner-area .banner-shape-3 {
+    display: none;
+  }
+  .banner-area .banner-img {
+    width: 525px;
+    z-index: -1;
+  }
+  .banner-area .dollar {
+    display: none;
+  }
+  .ico-area {
+    padding-top: 70px;
+    text-align: center;
+  }
+  .ico-area .ico-wrapper.ico-wrapper-timer {
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .ico-area .ico-wrapper .ico-text h3 {
+    font-size: 35px;
+  }
+  .section-title {
+    margin-bottom: 40px;
+  }
+  .section-title h3 {
+    font-size: 14px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+  }
+  .default-btn {
+    padding: 5px 20px;
+    font-size: 16px;
+  }
+  .default-btn-border {
+    padding: 5px 20px;
+    font-size: 16px;
+  }
+  .niktacacoin-img {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .benefit-area {
+    -webkit-clip-path: none;
+            clip-path: none;
+    padding: 70px 0 40px;
+    border-radius: 0 0 35px 35px;
+    overflow: hidden;
+  }
+  .benefit-area .section-title {
+    max-width: none;
+    width: 100%;
+  }
+  .benefit-wrapper .single-benefit h3 {
+    font-size: 22px;
+  }
+  .benefit-shape-4 {
+    display: none;
+  }
+  .blockchain-img {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .rating-area .single-rating ul {
+    bottom: 60px;
+  }
+  .rating-area .single-rating h3 {
+    top: 30px;
+  }
+  .timeline .arrows .arrow__prev {
+    top: 495px !important;
+  }
+  .timeline .arrows .arrow__next {
+    top: 495px !important;
+  }
+  .roadmap .timeline ol li {
+    width: 135px;
+  }
+  .roadmap .timeline ol li h3 {
+    width: 210px;
+    left: 6px;
+    font-size: 20px;
+  }
+  .roadmap .timeline ol li:not(:last-child)::after {
+    left: 104px;
+  }
+  .distribution-area {
+    padding-top: 50px;
+  }
+  .distribution-area .single-distribution {
+    max-width: 160px;
+    margin: 30px auto 0;
+    width: 100%;
+  }
+  .distribution-area .single-distribution span::before {
+    top: 5px;
+  }
+  .distribution-img {
+    text-align: center;
+  }
+  .structure-area {
+    padding-top: 50px;
+  }
+  .roadmap {
+    padding-top: 40px;
+  }
+  .team-area {
+    -webkit-clip-path: none;
+            clip-path: none;
+    padding: 70px 0 40px;
+    border-radius: 0 0 35px 35px;
+  }
+  .shape-5 {
+    display: none;
+  }
+  .currencies-area .single-bit {
+    margin-bottom: 30px;
+  }
+  .valus-area {
+    padding-top: 40px;
+  }
+  .valus-area .values-and-sell {
+    padding: 35px 30px;
+  }
+  .valus-area .values-and-sell ul li {
+    padding-right: 75px;
+    font-size: 14px;
+  }
+  .valus-area .values-and-sell ul li.bitcoin-number {
+    padding-left: 124px;
+  }
+  .blog-area {
+    padding-bottom: 140px;
+  }
+  .blog-area .single-blog .blog-text p {
+    font-size: 15px;
+  }
+  .blog-area .single-blog .blog-text h2 a {
+    font-size: 20px;
+  }
+  .blog-area .single-blog .blog-text .read-more {
+    font-size: 14px;
+  }
+  .contact-area label {
+    font-size: 16px;
+  }
+  .contact-area .Form-contact {
+    padding: 30px;
+    margin-bottom: 108px;
+  }
+  .contact-area .default-btn {
+    font-size: 16px;
+  }
+  .form-control {
+    font-size: 14px;
+    padding: 20px;
+  }
+  .partner-area {
+    padding-bottom: 70px;
+  }
+  .footer-top-area {
+    padding-bottom: 40px;
+  }
+  .footer-top-area .single-widget ul li {
+    font-size: 15px;
+  }
+  .footer-top-area .single-widget .brand {
+    margin-bottom: 20px;
+    line-height: 1.9;
+  }
+  .footer-top-area .single-widget p {
+    margin-bottom: 30px;
+  }
+  .footer-top-area .single-widget h3 {
+    font-size: 20px;
+  }
+  .single-widget.single-widget-align {
+    margin-left: 0;
+  }
+  .social-links {
+    text-align: center !important;
+    margin-top: 10px !important;
+  }
+  .service-img {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .benefit-button {
+    margin-bottom: 40px;
+  }
+  .faq-img {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .stucher-img {
+    text-align: center;
+  }
+  /**********************/
+  .mein-navbar {
+    padding: 6px 15px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#111014), to(#111014));
+    background-image: linear-gradient(#111014, #111014);
+  }
+  .banner-area-two {
+    padding: 120px 0 70px;
+  }
+  .banner-area-two .banner-text {
+    max-width: 550px;
+    pad-font-size: 15px;
+  }
+  .banner-area-two .banner-text h2 {
+    font-size: 45px;
+  }
+  .banner-area-two .banner-text ul li {
+    font-size: 16px;
+  }
+  .banner-area-two .banner-text ul li .number-bg {
+    left: -3px;
+    top: -24px;
+    font-size: 40px;
+  }
+  .banner-area-two .banner-img-two {
+    margin-top: 30px;
+  }
+  .banner-area-two .Shape-1 {
+    display: none;
+  }
+  .banner-area-two .Shape-2 {
+    display: none;
+  }
+  .banner-area-two .Shape-3 {
+    display: none;
+  }
+  .section-title-two h3 {
+    font-size: 14px;
+  }
+  .section-title-two h2 {
+    font-size: 25px;
+  }
+  .section-title-two span {
+    display: none;
+  }
+  .about-area .section-title-two {
+    margin-left: 0;
+  }
+  .about-area .niktacacoin-button {
+    margin-left: 0;
+  }
+  .about-area .single-work .about-icon.about-icon-center {
+    left: -3px;
+  }
+  .what-is-nikata-area .video-content-wrapper {
+    margin-bottom: 30px;
+  }
+  .buy-now-area .section-title-two {
+    max-width: 100%;
+    margin: 0 auto 50px;
+  }
+  .buy-now-area .ico-wrapper.ico-wrapper-timer {
+    margin: auto;
+  }
+  .buy-now-area .Shape-4 {
+    display: none;
+  }
+  .buy-now-area .buy-now-img {
+    margin-bottom: 20px;
+  }
+  .benefit-two-area .section-title-two {
+    max-width: 100%;
+  }
+  .service-area-two {
+    padding-top: 20px;
+  }
+  .service-area-two .service-img {
+    margin-top: 30px;
+  }
+  .blockchain-area-two {
+    padding-top: 40px;
+  }
+  .rating-two-area {
+    padding-top: 30px;
+  }
+  .roadmap-two .section-title-two {
+    margin-top: 0;
+  }
+  .roadmap-two .timeline ol {
+    padding: 261px 0 243px;
+  }
+  .roadmap-two .timeline .arrows .arrow__prev {
+    top: 435px !important;
+  }
+  .roadmap-two .timeline .arrows .arrow__next {
+    top: 435px !important;
+  }
+  .structure-area-two .values-and-sell .we-accept ul li {
+    margin-right: 84px;
+  }
+  .structure-area-two .values-and-sell ul li {
+    padding-right: 414px;
+  }
+  .team-area-two .join-now {
+    margin-top: -30px;
+    text-align: left;
+    margin-bottom: 40px;
+  }
+  .team-area-two .single-team {
+    padding: 20px;
+  }
+  .faq-area-two {
+    padding-top: 40px;
+  }
+  .team-member-area {
+    padding-top: 70px;
+  }
+  .team-member-area .section-title-two {
+    max-width: 680px;
+    margin-left: auto;
+    margin: 0 auto 40px;
+  }
+  .blog-area-two {
+    padding-top: 40px;
+  }
+  .blog-area-two .single-blog .blog-text h2 a {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .contact-area-two {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .contact-area-two .get-in-touch {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .about-area .single-work {
+    text-align: center;
+  }
+  .about-area .single-work .work-content.work-contents {
+    left: 0;
+  }
+  .distribution-area-two {
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  .distribution-area-two .section-title-two {
+    margin-bottom: 40px;
+  }
+  .distribution-area-two .distribution-img::before {
+    top: -42px;
+    left: -30px;
+    display: none;
+  }
+  .distribution-area-two .ml-100 {
+    margin-bottom: 70px;
+    margin-left: 0;
+  }
+  .distribution-area-two .mb-100 {
+    margin-bottom: 0px;
+  }
+  .distribution-area-two .token-list {
+    margin-top: 30px;
+  }
+  .distribution-area-two .token-list h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .distribution-area-two .token-list ul li {
+    font-size: 17px;
+  }
+  .distribution-area-two .token-list ul li:last-child {
+    margin-bottom: 0;
+  }
+  .blog-details-area {
+    padding: 70px 0 70px;
+  }
+  .footer-top-area-two .single-widget.align-centers {
+    margin-left: 0;
+  }
+  .footer-top-area-two .single-widget h3 {
+    font-size: 20px;
+  }
+  .footer-top-area-two .single-widget ul li a {
+    font-size: 15px;
+  }
+  .footer-top-area-two .single-widget .brand {
+    font-size: 20px;
+  }
+  .what-is-nikata-img {
+    text-align: center;
+  }
+  .contact-area-two .section-title-two {
+    margin-bottom: 0;
+  }
+  .mein-navbar .other-option {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 0;
+  }
+  .banner-area .banner-text {
+    text-align: center;
+  }
+  .niktacacoin-button {
+    text-align: center;
+  }
+  .section-title {
+    text-align: center;
+  }
+  .benefit-area .benefit-button {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .benefit-wrapper .single-benefit {
+    text-align: center;
+  }
+  .blockchain-button {
+    text-align: center;
+  }
+  .blockchain-area ul li {
+    padding-left: 0;
+  }
+  .blockchain-area ul i {
+    display: none;
+  }
+  .distribution-area .single-distribution {
+    margin-left: 0;
+  }
+  .structure-area .single-structure .structure-content {
+    left: 95px;
+  }
+  .single-blog .blog-text {
+    text-align: center;
+    padding: 20px;
+  }
+  .blockchain-area .blockchain-button .google-play.active {
+    margin-left: 20px !important;
+  }
+  .valus-area .section-title {
+    margin-left: 0;
+  }
+  .what-is-nikata-area ul li {
+    padding-left: 0;
+  }
+  .what-is-nikata-area ul i {
+    display: none;
+  }
+  .what-is-nikata-area .video-content-wrapper {
+    text-align: center;
+  }
+  .what-is-nikata-area .video-content-wrapper p {
+    display: none;
+  }
+  .blockchain-area-two ul li {
+    padding-left: 0;
+  }
+  .blockchain-area-two ul li i {
+    display: none;
+  }
+  .benefit-two-area .section-title-two {
+    margin: 30px auto 50px;
+  }
+  .team-area-two .section-title-two {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .team-area-two .join-now p {
+    text-align: center;
+  }
+  .widget.widget_search {
+    margin-top: 35px !important;
+  }
+  .page-title-area {
+    padding-top: 125px;
+    padding-bottom: 60px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .banner-area {
+    height: 700px;
+  }
+  .banner-area .banner-shape {
+    bottom: -24px !important;
+  }
+  .banner-area .banner-text {
+    max-width: 550px;
+  }
+  .banner-area .banner-text h2 {
+    font-size: 60px;
+  }
+  .banner-area .banner-img {
+    top: 100px;
+    width: 600px;
+  }
+  .banner-area .dollar {
+    top: 160px;
+    right: 274px;
+  }
+  .banner-shape-2 {
+    bottom: -23px;
+  }
+  .banner-shape-2 img {
+    height: 780px;
+  }
+  .banner-shape-3 {
+    bottom: -45px !important;
+  }
+  .banner-shape-3 img {
+    height: 795px;
+  }
+  .ico-area {
+    padding-top: 143px;
+  }
+  .ico-area .ico-wrapper {
+    padding: 20px;
+  }
+  .ico-area .ico-wrapper .ico-text ul li {
+    padding-right: 7px;
+  }
+  .ico-area .ico-wrapper .ico-text ul li span {
+    line-height: 68px;
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+  }
+  .ico-area .ico-wrapper .ico-text h3 {
+    font-size: 30px;
+  }
+  .ico-area .ico-wrapper .ico-text h4 {
+    font-size: 25px;
+  }
+  .ico-area .ico-wrapper .tril-wrapper p {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 23px 0 24px;
+  }
+  .ico-slider-wrapper {
+    left: 0;
+  }
+  .benefit-wrapper .single-benefit h3 {
+    font-size: 19px;
+  }
+  .single-blog .blog-text h2 a {
+    font-size: 20px;
+  }
+  .about-area .single-work .about-icon.about-icon-center {
+    left: 0;
+  }
+  .rating-area .single-rating {
+    padding: 15px;
+  }
+  .rating-area .single-rating ul {
+    bottom: 61px;
+    left: 122px;
+  }
+  .rating-area .single-rating h3 {
+    top: 25px;
+    left: 122px;
+  }
+  .roadmap {
+    padding-top: 70px;
+  }
+  .distribution-area {
+    padding-top: 90px;
+  }
+  .distribution-area .single-distribution span::before {
+    top: 5px;
+  }
+  .shape-5 {
+    bottom: 33px;
+  }
+  .structure-area.pt-100 {
+    padding-top: 80px;
+  }
+  .currencies-area {
+    padding-top: 70px;
+  }
+  .currencies-area .single-bit {
+    padding: 20px;
+  }
+  .footer-top-area .single-widget h3 {
+    font-size: 22px;
+  }
+  .contact-area .Form-contact {
+    margin-bottom: 140px;
+  }
+  .single-widget.single-widget-align {
+    margin-left: 70px;
+  }
+  .contact-area label {
+    font-size: 16px;
+  }
+  .form-control {
+    font-size: 13px;
+  }
+  #toTop {
+    bottom: 47px;
+  }
+  .section-title h3 {
+    font-size: 15px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+  }
+  .default-btn {
+    padding: 5px 20px;
+    font-size: 16px;
+  }
+  .default-btn-border {
+    padding: 5px 20px;
+    font-size: 16px;
+  }
+  /*********************/
+  .banner-area-two .banner-text h2 {
+    font-size: 44px;
+  }
+  .banner-area-two .banner-text p {
+    font-size: 15px;
+  }
+  .banner-area-two .banner-text ul li {
+    font-size: 17px;
+  }
+  .banner-area-two .banner-text ul li .number-bg {
+    left: -4px;
+    top: -24px;
+    font-size: 40px;
+  }
+  .banner-area-two .Shape-1 {
+    display: none;
+  }
+  .banner-area-two .Shape-2 {
+    display: none;
+  }
+  .banner-area-two .Shape-3 {
+    display: none;
+  }
+  .default-btn-two {
+    padding: 8px 15px;
+    font-size: 16px;
+  }
+  .default-btn-border-two {
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+  .about-area .single-work .work-content.work-contents {
+    left: 0;
+  }
+  .section-title-two h3 {
+    font-size: 15px;
+  }
+  .section-title-two h2 {
+    font-size: 30px;
+    line-height: 1.5;
+  }
+  .section-title-two p {
+    font-size: 15px;
+  }
+  .what-is-nikata-area ul li {
+    font-size: 15px;
+  }
+  .what-is-nikata-area ul li i {
+    top: -7px;
+  }
+  .team-member-area {
+    padding-top: 70px;
+  }
+  .contact-area-two .get-in-touch {
+    margin-left: 0;
+  }
+  .contact-area-two .get-in-touch ul li span {
+    font-size: 14px;
+  }
+  .buy-now-area .ico-wrapper {
+    padding: 40px;
+  }
+  .buy-now-area .ico-wrapper .ico-text h4 {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .buy-now-area .ico-wrapper .ico-text ul li {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .buy-now-area .ico-wrapper .ico-text ul li span {
+    line-height: 1.5;
+    width: 60px;
+    height: 60px;
+  }
+  .buy-now-area .ico-wrapper ul li {
+    padding-right: 154px;
+  }
+  .buy-now-area .Shape-4 {
+    display: none;
+  }
+  .rating-two-area .single-rating h3 {
+    font-size: 17px;
+    font-weight: 700;
+    left: 120px;
+    top: 35px;
+  }
+  .rating-two-area .single-rating ul {
+    left: 120px;
+    bottom: 60px;
+  }
+  .benefit-two-area .single-benefits h3 {
+    font-weight: 500;
+  }
+  .roadmap-two .timeline .arrows .arrow__prev {
+    top: 449px !important;
+  }
+  .roadmap-two .timeline .arrows .arrow__next {
+    top: 449px !important;
+  }
+  .structure-area-two .values-and-sell ul li {
+    padding-right: 94px;
+  }
+  .structure-area-two .values-and-sell .we-accept ul li i {
+    font-size: 37px;
+  }
+  .structure-area-two .values-and-sell .we-accept h3 {
+    margin: 38px 0 43px;
+  }
+  .team-area-two .single-team {
+    padding: 20px;
+  }
+  .team-member-area .section-title-two {
+    max-width: 360px;
+    margin-left: auto;
+  }
+  .team-member-area .section-title-two span {
+    left: -69px;
+  }
+  .team-member-area .team-member-wrapper .single-team {
+    padding: 20px;
+  }
+  .team-member-area .owl-theme .owl-nav {
+    bottom: 20px;
+    left: -398px;
+  }
+  .blog-area-two .single-blog .blog-text h2 a {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .distribution-area-two {
+    padding-bottom: 80px;
+    padding-top: 60px;
+  }
+  .distribution-area-two .section-title-two {
+    margin-bottom: 70px;
+  }
+  .distribution-area-two .distribution-img::before {
+    top: -42px;
+    left: 51px;
+  }
+  .distribution-area-two .ml-100 {
+    margin-bottom: 70px;
+    margin-left: 0;
+  }
+  .distribution-area-two .mb-100 {
+    margin-bottom: 0px;
+  }
+  .distribution-area-two .token-list {
+    margin-top: 70px;
+  }
+  .distribution-area-two .token-list h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .distribution-area-two .token-list ul li {
+    font-size: 17px;
+  }
+  .distribution-area-two .token-list ul li:last-child {
+    margin-bottom: 0;
+  }
+  .footer-top-area-two .single-widget h3 {
+    font-size: 20px;
+  }
+  .footer-top-area-two .single-widget p {
+    font-size: 14px;
+  }
+  .footer-top-area-two .single-widget.align-centers {
+    margin-left: 55px;
+  }
+  .footer-top-area-two .single-widget ul li a {
+    font-size: 15px;
+  }
+  .footer-top-area-two .single-widget ul li:last-child {
+    margin-bottom: 0;
+  }
+  .structure-area-two .values-and-sell .we-accept ul li {
+    margin-right: 22px;
+  }
+  .team-member-area .team-member-wrapper .single-team::after {
+    bottom: 33px;
+  }
+  .faq-accordion .accordion .accordion-item .accordion-title {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .contact-area-two .section-title-two {
+    margin: 0;
+  }
+  .ico-area .ico-wrapper.ico-wrapper-timer {
+    max-width: 380px;
+  }
+  .structure-area .single-structure .structure-content {
+    left: 80px;
+  }
+  .valus-area .section-title {
+    margin-left: 0;
+  }
+  .rating-two-area .single-rating ul {
+    left: 113px;
+    bottom: 25px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+@media only screen and (min-width: 1824px) {
+  .banner-area {
+    height: 969px;
+  }
+  .banner-area .banner-img {
+    width: 890px;
+  }
+  .banner-area .dollar {
+    top: 250px;
+    right: 412px;
+  }
+  .ico-slider-wrapper {
+    left: calc((100% - 970px)/2);
+  }
+  .ico-wrapper.ico-wrapper-timer {
+    max-width: 422px;
+  }
+  .ico-area {
+    margin-left: 72px;
+  }
+  .benefit-shape-4 {
+    bottom: -74px;
+  }
+  .shape-5 {
+    bottom: -52px;
+  }
+  .banner-area .banner-shape {
+    bottom: -47px;
+  }
+  .banner-area .banner-shape-3 {
+    bottom: -63px;
+  }
+  .banner-area .banner-shape-3 img {
+    height: 1100px;
+    width: 100%;
+  }
+  .banner-area .banner-shape-2 {
+    bottom: -34px;
+  }
+  .banner-area .banner-shape-2 img {
+    height: 1100px;
+    width: 100%;
+  }
+  .team-member-area .section-title-two {
+    max-width: 381px;
+  }
+  .team-member-area .section-title-two span {
+    left: 289px;
+  }
+  .team-member-area .owl-theme .owl-nav {
+    left: -413px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
